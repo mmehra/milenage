@@ -1,0 +1,23 @@
+#
+# Input file for milenage.py. This program understands
+# input file in following format. Multiple keysets
+# can be specified
+#
+# ki=128 bit encryption key
+# op=128 bit operator specific constant
+# rand=128 bit random number
+# <newline>
+#
+
+ki=90dca4eda45b53cf0f12d7c9c3bc6a89
+op=3ffcfe5b7b1111589920d3528e84e655
+rand=9fddc72092c6ad036b6e464789315b78
+
+ki=5122250214c33e723a5dd523fc145fc0
+op=c9e8763286b5b9ffbdf56e1297d0887b
+rand=81e92b6c0ee0e12ebceba8d92a99dfa5
+
+ki=b73a90cbcf3afb622dba83c58a8415df
+op=b672047e003bb952dca6cb8af0e5b779
+rand=b120f1c1a0102a2f507dd543de68281f
+

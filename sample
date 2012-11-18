@@ -1,0 +1,132 @@
+#
+# Sample test sets for testing milenage.py
+# These test sets are copied from 3GPP TS 55.205 v9.0
+#
+# The specification can be found @
+# http://www.3gpp.org/ftp/Specs/html-info/55205.htm
+#
+
+TEST SET # 11
+-------------
+Ki          77b45843c88e58c10d202684515ed430
+RAND        4c47eb3076dc55fe5106cb2034b8cd78
+OP          bf3286c7a51409ce95724d503bfe6e70
+OPc         d483afae562409a326b5bb0b20c4d762
+MIL3G-RES   aefa357beac2a87a
+SRES#1      44389d01
+SRES#2      aefa357b
+MIL3G-CK    908c43f0569cb8f74bc971e706c36c5f
+MIL3G-IK    c251df0d888dd9329bcf46655b226e40
+Kc          82dbab7f83f063da
+
+
+TEST SET # 12
+-------------
+Ki          729b17729270dd87ccdf1bfe29b4e9bb
+RAND        311c4c929744d675b720f3b7e9b1cbd0
+OP          d04c9c35bd2262fa810d2924d036fd13
+OPc         228c2f2f06ac3268a9e616ee16db4ba1
+MIL3G-RES   98dbbd099b3b408d
+SRES#1      03e0fd84
+SRES#2      98dbbd09
+MIL3G-CK    44c0f23c5493cfd241e48f197e1d1012
+MIL3G-IK    0c9fb81613884c2535dd0eabf3b440d8
+Kc          3c66cb98cab2d33d
+
+
+TEST SET # 13
+-------------
+Ki          d32dd23e89dc662354ca12eb79dd32fa
+RAND        cf7d0ab1d94306950bf12018fbd46887
+OP          fe75905b9da47d356236d0314e09c32e
+OPc         d22a4b4180a5325708a5ff70d9f67ec7
+MIL3G-RES   af4a411e1139f2c2
+SRES#1      be73b3dc
+SRES#2      af4a411e
+MIL3G-CK    5af86b80edb70df5292cc1121cbad50c
+MIL3G-IK    7f4d6ae7440e18789a8b75ad3f42f03a
+Kc          9612b5d88a4130bb
+
+
+TEST SET # 14
+-------------
+Ki          af7c65e1927221de591187a2c5987a53
+RAND        1f0f8578464fd59b64bed2d09436b57a
+OP          0c7acb8d95b7d4a31c5aca6d26345a88
+OPc         a4cf5c8155c08a7eff418e5443b98e55
+MIL3G-RES   7bffa5c2f41fbc05
+SRES#1      8fe019c7
+SRES#2      7bffa5c2
+MIL3G-CK    3f8c3f3ccf7625bf77fc94bcfd22fd26
+MIL3G-IK    abcbae8fd46115e9961a55d0da5f2078
+Kc          75a150df3c6aed08
+
+
+TEST SET # 15
+-------------
+Ki          5bd7ecd3d3127a41d12539bed4e7cf71
+RAND        59b75f14251c75031d0bcbac1c2c04c7
+OP          f967f76038b920a9cd25e10c08b49924
+OPc         76089d3c0ff3efdc6e36721d4fceb747
+MIL3G-RES   7e3f44c7591f6f45
+SRES#1      27202b82
+SRES#2      7e3f44c7
+MIL3G-CK    d42b2d615e49a03ac275a5aef97af892
+MIL3G-IK    0b3f8d024fe6bfafaa982b8f82e319c2
+Kc          b7f92e426a36fec5
+
+
+TEST SET # 16
+-------------
+Ki          6cd1c6ceb1e01e14f1b82316a90b7f3d
+RAND        f69b78f300a0568bce9f0cb93c4be4c9
+OP          078bfca9564659ecd8851e84e6c59b48
+OPc         a219dc37f1dc7d66738b5843c799f206
+MIL3G-RES   70f6bdb9ad21525f
+SRES#1      ddd7efe6
+SRES#2      70f6bdb9
+MIL3G-CK    6edaf99e5bd9f85d5f36d91c1272fb4b
+MIL3G-IK    d61c853c280dd9c46f297baec386de17
+Kc          88d9de10a22004c5
+
+
+TEST SET # 17
+-------------
+Ki          5122250214c33e723a5dd523fc145fc0
+RAND        81e92b6c0ee0e12ebceba8d92a99dfa5
+OP          c9e8763286b5b9ffbdf56e1297d0887b
+OPc         981d464c7c52eb6e5036234984ad0bcf
+MIL3G-RES   28d7b0f2a2ec3de5
+SRES#1      8a3b8d17
+SRES#2      28d7b0f2
+MIL3G-CK    5349fbe098649f948f5d2e973a81c00f
+MIL3G-IK    9744871ad32bf9bbd1dd5ce54e3e2e5a
+Kc          9a8d0e883ff0887a
+
+
+TEST SET # 18
+-------------
+Ki          b73a90cbcf3afb622dba83c58a8415df
+RAND        b120f1c1a0102a2f507dd543de68281f
+OP          b672047e003bb952dca6cb8af0e5b779
+OPc         df0c67868fa25f748b7044c6e7c245b8
+MIL3G-RES   479dd25c20792d63
+SRES#1      67e4ff3f
+SRES#2      479dd25c
+MIL3G-CK    66195dbed0313274c5ca7766615fa25e
+MIL3G-IK    66bec707eb2afc476d7408a8f2927b36
+Kc          a819e577a8d6175b
+
+
+TEST-SET # 19
+-------------
+Ki          90dca4eda45b53cf0f12d7c9c3bc6a89
+RAND        9fddc72092c6ad036b6e464789315b78
+OP          3ffcfe5b7b1111589920d3528e84e655
+OPc         cb9cccc4b9258e6dca4760379fb82581
+MIL3G-RES   a95100e2760952cd
+SRES#1      df58522f
+SRES#2      a95100e2
+MIL3G-CK    b5f2da03883b69f96bf52e029ed9ac45
+MIL3G-IK    b4721368bc16ea67875c5598688bb0ef
+Kc          ed29b2f1c27f9f34

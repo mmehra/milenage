@@ -1,0 +1,32 @@
+# 
+#  milenage.py
+#  Program to generate GSM Authentication Triplets
+#  Author: mmehra@juniper.net
+#
+#  https://github.com/mmehra/milenage
+#
+
+This program can be used to generate GSM authentication triplets
+using milenage algorithm specified in 3GPP TS 55.205 v9.0.0. These
+authentication triplets can be used to test EAP-SIM with real UE
+and freeradius server.
+
+Softwares like gemalto, etc are available to provision (U)SIM with
+IMSI, Ki, Op values. However very few softwares are available to
+generate GSM auth triplets. AGSM (http://agsm.sourceforge.net) is
+available but it does not work with all card readers. This small
+utility does the job, generates SRES, Kc given Ki, Op and RAND.
+
+
+Directory Structure:
+milenage/
+   |--> milenage.py   Milenage algorithm implementation
+   |--> input         Sample input file
+   |--> sample        Sample test-sets from 55.205
+   |--> VERSION       Version
+
+
+Usage:
+The program expects an input file with Ki, Op and rand values.
+Please refer to sample input file for the format
+    ./milenage <input>
