@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #
 # $Id$
 #
@@ -8,9 +9,6 @@
 #
 # Author: mmehra@juniper.net
 #
-
-
-#!/usr/bin/python
 
 import sys
 import binascii
